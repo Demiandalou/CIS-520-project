@@ -1,1 +1,3 @@
 # CIS-520-project
+
+In recent years, review text classification has attracted the attention of many researchers, which motivate us to come up with our predictive model to classify clothing rating with supervised learning. Based on the Women’s E-Commerce Clothing Reviews Dataset, we implement Support Vector Machines, Logistic Regression, Random Forest, CNN, and BERT to classify the reviews, and integrate non-text metadata into our models. The Pre-trained BERT model outperforms the baseline model with a higher accuracy of 85.91% on the test dataset.
